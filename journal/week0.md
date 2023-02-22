@@ -31,7 +31,7 @@ msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 I attempted to run the command by typing in `aws` but I recieved an error
 
 ```
-C:\Users\Andrew>aws
+C:\Users\Younus>aws
 'aws' is not recognized as an internal or external command,
 operable program or batch file.
 ```
@@ -49,34 +49,18 @@ I did not create a second Budget because I was concerned of budget spending goin
 
 ### Recreate Logical Architectural Deisgn
 
-![Cruddur Logical Design](assets/logical-architecture-recreation-diagram.png)
+## Lucid Chart and Architecture Diagram
 
-[Lucid Charts Share Link](https://lucid.app/lucidchart/c6d54586-0334-44ab-95cb-d11772edcace/edit?viewport_loc=-259%2C144%2C2219%2C1161%2C0_0&invitationId=inv_19e0767b-5aa5-49ec-bccd-f220b9163d2f
-)
+![image](https://user-images.githubusercontent.com/73644685/219707212-858d64c7-75e8-4d09-81b6-dfe21803a831.png)
+
+[Here is my LucidChart Link](https://lucid.app/lucidchart/604bf756-af26-4d9b-b514-1ba5bcee22f5/edit?viewport_loc=-393%2C-422%2C2431%2C1242%2C0_0&invitationId=inv_0ecfc60c-0ee5-4203-b6e2-1afabe76bf1a)
 
 ## Example of Referncing a file in the codebase
 
 Example of me of referencing a file in my repo
 [week-1-again/aws/json/alarm-config.jso](https://github.com/omenking/aws-bootcamp-cruddur-2023/blob/week-1-again/aws/json/alarm-config.json)
 
-## List Example
 
-- This
-- Is 
-- A
-- List
-
-1. This
-2. Is
-3. A 
-3. Ordered 
-4. List
-
-## Table Example
-
-| My | Cool | Table |
-| --- | --- | ---|
-| Hello | World | ! |
 
 ## Code Example
 
