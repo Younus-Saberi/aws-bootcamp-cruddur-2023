@@ -7,9 +7,6 @@
 
 [Here is my LucidChart Link](https://lucid.app/lucidchart/604bf756-af26-4d9b-b514-1ba5bcee22f5/edit?viewport_loc=-393%2C-422%2C2431%2C1242%2C0_0&invitationId=inv_0ecfc60c-0ee5-4203-b6e2-1afabe76bf1a)
 
-# Week 0 — Billing and Architecture
-
-## Required Homework/Tasks
 
 ### Install and Verify AWS CLI 
 
@@ -25,7 +22,7 @@ I installed the AWS CLI for Windows 10 via command in **Command Prompt**:
 
 I followed the instructions on the [AWS CLI Install Documentation Page](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
-![Installing AWS CLI](assets/installing-windows-aws-cli.png)
+<!-- ![Installing AWS CLI](assets/installing-windows-aws-cli.png) -->
 
 ```
 msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
@@ -41,7 +38,7 @@ operable program or batch file.
 
 I was able to resolve the error by closing command prompt, and opening it again.
 
-![Proof of Working AWS CLI](assets/proof-of-aws-cli.png)
+<!-- ![Proof of Working AWS CLI](assets/proof-of-aws-cli.png) -->
 
 ### Create a Budget
 
